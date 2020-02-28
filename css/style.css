@@ -1,0 +1,219 @@
+/* Fonts Used:
+font-family: 'Yellowtail', ;
+font-family: 'Cairo', ;
+font-family: 'Oswald', ;
+font-family: 'Patrick Hand', ; */
+
+
+html{
+    margin: 2.5% 26.32%;
+}
+
+body{
+    width: auto;
+}
+
+#logo{
+
+    height: 50px;
+    padding-right: .5%;
+    clear: both;
+}
+
+#social{
+    position: absolute;
+    top: 0;
+    left: 3.7%;
+    width: 70%;
+    margin-top: 3%;
+}
+
+.fa-pinterest-square:before {
+    padding-right: 16px;
+}
+
+.nav{
+    float: right;
+    font-size: 190%;
+    padding-left: .35%;
+}
+
+#break{
+    width: 100%;
+    height: 20px;
+    background-image: url(hr-img.png);
+    margin-top: 3%;
+}
+
+.fa-instagram{
+    color: white;
+    background-color: black;
+    padding: 0.8px 1.5px;
+    border-radius: 10%;
+    font-size: 85%;
+    text-align: center;
+}
+
+.fa-envelope{
+    color: white;
+    background-color: black;
+    padding: 0.8px 1.5px;
+    border-radius: 10%;
+    font-size: 85%;
+    text-align: center;
+}
+
+h1{ 
+    padding-top: 0.7%;
+    font-family: 'Yellowtail';
+    display: inline-block;
+    font-size: 250%;
+    vertical-align: top;
+    width: 23%;
+    line-height: 40%;
+}
+
+#slogan{
+    font-family: 'Cairo';
+    font-weight: 400;
+    opacity: .6;
+    font-size: 30%;
+    display: inline-block;
+    padding-top: 7.5%;
+}
+
+h2{
+    font-family: 'oswald';
+    font-size: 300%;
+    font-weight: 600;
+    margin-top: 5%;
+}
+
+h4{
+    font-family: 'Cairo';
+    font-weight: 300;
+    opacity: .5;
+    font-size: 90%;
+    padding-top: .8%;
+    padding-left: .2%;
+    float: left;
+    clear: both;
+}
+
+#print{
+    float: right;
+    font-family: 'Cairo';
+    font-weight: 300;
+    opacity: .5;
+    font-size: 90%;
+}
+
+#pizza{
+    padding-top: 5%;
+    margin-bottom: 4%;
+}
+p { 
+    text-indent: 4%;
+    font-size: 122%;
+    opacity: .75;
+    line-height: 150%;
+    padding-bottom: 3%;
+ }
+
+ #checkList{
+    font-family: 'Patrick Hand';
+    background-image: url(list-bg.png);
+    height: 265px;
+    font-size: x-large;
+    padding-left: 7%;
+    padding-top: 4%;
+    margin-bottom: 5%;
+    line-height: 130%;
+    opacity: .7;
+}
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+  }
+
+
+#left{
+    width: 40%;
+    float: left;
+}
+#right{
+    width: 40%;
+    float: right;
+}
+
+h3{
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bold;
+    opacity: 0.68;
+    padding-left: 2%;
+    padding-bottom: 1%;
+
+}
+
+#profilePicture{
+    float: left;
+}
+
+#author{
+    padding-top: 3.5%;
+}
+
+#vanessa{
+    display: inline-block;
+    text-indent: 0;
+    padding-left: 2.3%;
+    width: 68%;
+    line-height: 123%;
+    font-size: 121%;
+    opacity: .6;
+}
+
+button{
+
+    background-color: #cd795c;
+    color: #efe7e7;
+    padding: 2% 3%;
+    align-items:center;
+    justify-content:center;
+    text-transform:uppercase;
+    font-size:medium;
+    float: right;
+    margin-top: 0.5%;
+}
+
+
+footer{
+    margin-top: 3%;
+}
+hr{
+    display: inline-block;
+    width: 47.6%;
+    margin-top: 3px;
+    opacity: 0.2;
+    margin-bottom: 1.3%;
+}
+
+#mini{
+    vertical-align: text-bottom;
+    opacity: 0.8;
+
+}
+
+#copy{
+    margin-top: 5%;
+}
+
+.copyRight{
+    font-size: 90%;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0%;
+    opacity: 0.4;
+}
+
